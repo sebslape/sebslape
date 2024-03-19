@@ -12,4 +12,4 @@
 [<img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E">](https://www.w3schools.com/js/)
 
 ### Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGrizzly1&theme=dark&langs_count=3" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AGrizzly1&line_height=27&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebslape&theme=dark&langs_count=3" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebslape&line_height=27&show_icons=true&theme=dark" />
